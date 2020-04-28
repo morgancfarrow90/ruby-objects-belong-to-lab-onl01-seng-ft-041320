@@ -1,0 +1,2 @@
+class Arthor
+end
