@@ -10,3 +10,4 @@ def add_post(post)
   @post << post
   post.Author = self
 end
+end
