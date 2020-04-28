@@ -3,6 +3,7 @@ attr_accessor :name
   
 def initialize
   @name = name
+  @post
 end
 
 def add_post(post)
