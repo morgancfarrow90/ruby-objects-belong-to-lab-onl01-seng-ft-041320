@@ -3,7 +3,8 @@ class Song
   
 def initialize(title, artist)
   @title = title
-  @artist = Artist
+  @artist = artist
+  self
 end
 end
 
