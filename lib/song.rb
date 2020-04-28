@@ -7,6 +7,6 @@ end
 
 def song_artist(artist)
   self.title.Artist = artist
-  
+end
 end
 
